@@ -1,0 +1,110 @@
+        body {
+            background-image: url(../images/image1.jpg);
+            background-repeat: no-repeat;
+            height: 700px;
+            background-position: center;
+            background-size: cover;
+            font-family: Arial narrow;
+        }
+        
+        header {
+            font-size: 30px;
+        }
+        
+        .jourway {
+            font-size: 33px;
+            margin: 70px;
+            position: relative;
+            top: -45px;
+        }
+        
+        .white {
+            color: white;
+            font-family: Arial;
+        }
+        
+        .bigtext {
+            font-size: 65px;
+            position: relative;
+            top: 290px;
+            margin: 70px;
+        }
+        
+        .littletext {
+            position: relative;
+            top: 240px;
+            margin: 70px;
+        }
+        
+        .login_box {
+            background: white;
+            position: absolute;
+            left: 55%;
+            right: 0%;
+            top: 0%;
+            height: 835px;
+        }
+        
+        .Htext {
+            margin: 100px;
+            font-size: 40px;
+            position: relative;
+            top: 200;
+        }
+        
+        .text {
+            margin: 100px;
+            position: relative;
+            bottom: 90px;
+            color: rgb(102, 100, 100);
+        }
+        
+        .name {
+            margin-left: 100px;
+            width: 67%;
+            position: relative;
+            bottom: 150px;
+        }
+        
+        .space {
+            margin-left: 100px;
+            width: 67%;
+            position: relative;
+            bottom: 150px;
+            height: 60px;
+            border-radius: 5px;
+            border-color: rgb(228, 223, 223);
+        }
+        
+        .button {
+            margin-left: 100px;
+            width: 68%;
+            position: relative;
+            bottom: 150px;
+            height: 70px;
+            border: none;
+            border-radius: 10px;
+            background: #3DB2FF;
+            color: #fff;
+            font-size: 20px;
+        }
+        
+        .forgot {
+            color: rgb(102, 100, 100);
+            text-decoration: none;
+            position: relative;
+            left: 40%;
+            bottom: 130px;
+        }
+        
+        .black_letter {
+            position: relative;
+            left: 35%;
+            bottom: 130px;
+        }
+        
+        .color_blue {
+            color: #3DB2FF;
+            text-decoration: none;
+            position: relative;
+        }
